@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -12,6 +13,12 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+.countryList{
+  background: #0A0619;
+}
+
+
 
 .App-header {
   background-color: #282c34;
@@ -26,6 +33,31 @@
 
 .App-link {
   color: #61dafb;
+}
+
+
+body {
+  background-color: transparent;
+  background-image: linear-gradient(rgba(10, 6, 25, 0.6), rgba(10, 6, 25, 0.6)), url('alpsBackground.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white;
+  width:auto;
+  height: auto;
+}
+
+.container {
+  background: #0A0619;
+  color: white;
+}
+
+
+
+#mntimd{
+  border-radius: 10px;
+  width: 65%;
+  height: 100%;
 }
 
 @keyframes App-logo-spin {

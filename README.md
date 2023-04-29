@@ -1,6 +1,7 @@
 Simple website built using ReactJS and MaterialUI 5.0
 Made with "create-react-app".
 List of all the dependencies(you may also find them in "package.json":
+    ```
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@fontsource/roboto": "^4.5.8",
@@ -15,3 +16,4 @@ List of all the dependencies(you may also find them in "package.json":
     "react-router-dom": "^6.10.0",
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
+    ```

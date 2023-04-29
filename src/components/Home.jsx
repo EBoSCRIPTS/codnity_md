@@ -12,10 +12,11 @@ function Home() {
         <Grid item xs={12} sm={6}>
           <Typography variant="h5" sx={{marginLeft: '7%', textAlign: "center", border: "2px solid rgba(10, 6, 25, 0.8)", 
           borderRadius: "10px",  backgroundColor: "rgba(10, 6, 25, 0.6)"}}>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, 
-            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Embark on a breathtaking journey and explore the majestic Alps. 
+            From snow-capped peaks to lush valleys, 
+            the Alps offer a world of natural wonders waiting to be discovered. 
+            Whether you're seeking adventure or relaxation, the Alps have something for everyone. 
+            Get ready to be amazed by the stunning landscapes and experience the beauty of nature like never before.
           </Typography>
 
         </Grid>
